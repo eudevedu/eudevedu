@@ -16,7 +16,7 @@
 </div>
   
 - 🔭 Há procura de novas oportunidades.
-- 🌱 Estutando Front-End
+- 🌱 Estudando Front-End
 - Cursando Engenharia de Software
   
   ##
