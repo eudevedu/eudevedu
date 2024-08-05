@@ -1,8 +1,7 @@
 ### Fala Galera me chamo Eduardo Batista, Bem Vindo ao perfil!
-  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eudevedu)](https://github.com/anuraghazra/github-readme-stats)
   <div>
     <a href="https://github.com/eudevedu">
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eudevedu)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 
   <div style="display: inline_block"><br>
